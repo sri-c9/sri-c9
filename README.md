@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects &rarr; [https://srisharan.com/](https://srisharan.com/)
 
-- 📫 Reach me at **sri.chandramouli@icloud.com**
+- 📫 Contact info &rarr; **sri.chandramouli@icloud.com**
 
 - 📄 Read about my experiences here &rarr; [Resume](https://srisharan.com/assets/Sri-Chandramouli-Resume.pdf)
 
