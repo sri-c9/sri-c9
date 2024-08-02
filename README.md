@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an [AI Customer Support tool](https://github.com/sri-c9/ai-customer-support)
 
-- 🌱 I’m currently learning **connecting foundational AI models**
+- 🌱 I’m currently learning about **leveraging different foundational AI models with REST APIs**
 
 - 🤝 I’m looking for **new grad software engineer roles**
 
