@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sri.chandramouli@icloud.com**
 
-- 📄 Know about my experiences [https://srisharan.com/assets/Sri-Chandramouli-Resume.pdf](https://srisharan.com/assets/Sri-Chandramouli-Resume.pdf)
+- 📄 Read about my experiences [Resume](https://srisharan.com/assets/Sri-Chandramouli-Resume.pdf)
 
 - ⚡ Fun fact **I'm a mentor for community college students @ NextLevel Transfer**
 
