@@ -7,11 +7,11 @@
 
 - 🤝 I’m looking for **new grad software engineer roles**
 
-- 👨‍💻 All of my projects are available &rarr; [https://srisharan.com/](https://srisharan.com/)
+- 👨‍💻 Some of my projects &rarr; [https://srisharan.com/](https://srisharan.com/)
 
-- 📫 Reach me at  **sri.chandramouli@icloud.com**
+- 📫 Reach me at **sri.chandramouli@icloud.com**
 
-- 📄 Read about my experiences at [Resume](https://srisharan.com/assets/Sri-Chandramouli-Resume.pdf)
+- 📄 Read about my experiences here &rarr; [Resume](https://srisharan.com/assets/Sri-Chandramouli-Resume.pdf)
 
 - ⚡ Fun fact **I'm a mentor for community college students @ NextLevel Transfer**
 
