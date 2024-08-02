@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for **new grad software engineer roles**
 
-- 👨‍💻 All of my projects are available at [https://srisharan.com/](https://srisharan.com/)
+- 👨‍💻 All of my projects are available &rarr; [https://srisharan.com/](https://srisharan.com/)
 
 - 📫 Reach me at  **sri.chandramouli@icloud.com**
 
