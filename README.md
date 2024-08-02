@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://srisharan.com/](https://srisharan.com/)
 
-- 📫 How to reach me **sri.chandramouli@icloud.com**
+- 📫 Reach me at  **sri.chandramouli@icloud.com**
 
-- 📄 Read about my experiences @ [Resume](https://srisharan.com/assets/Sri-Chandramouli-Resume.pdf)
+- 📄 Read about my experiences at [Resume](https://srisharan.com/assets/Sri-Chandramouli-Resume.pdf)
 
 - ⚡ Fun fact **I'm a mentor for community college students @ NextLevel Transfer**
 
