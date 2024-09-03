@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sri Chandramouli</h1>
 <h3 align="center">Soon-to-graduate UC Berkeley student studying Computer Science & Entrepreneurship</h3>
 
-- 🔭 I’m currently working on an [RAG-based Chatbot](https://github.com/sri-c9/rag-chatbot)
+- 🔭 I’m currently working on an [LLM Secretary](https://github.com/sri-c9/llm-secretary)
 
 - 🌱 I’m currently learning about **leveraging different foundational AI models with REST APIs**
 
