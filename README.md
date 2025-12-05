@@ -6,9 +6,9 @@ I like building things that are smart, fun, or just slightly over-engineered… 
 
 ## ⚡ Currently Building
 
-### **Hope Avenue Website Redesign**
-🛠️ Tinkering with a nonprofit site: shiny new UI, cozy admin features  
-**Tech:** TanStack UI, FastAPI backend  
+### **Hall Of Fame**
+🛠️ Tinkering with a fun way to interact with the Messages app
+**Tech:** SwiftUI + Swift (native apps >>>)   
 
 ---
 
